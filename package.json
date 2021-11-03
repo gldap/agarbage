@@ -1,0 +1,22 @@
+{
+  "name": "agarbage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy "gh-pages ('dist', {add: true}, callback); -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gldap/agarbage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gldap/agarbage/"
+  },
+  "homepage": "https://github.com/gldap/agarbage",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
